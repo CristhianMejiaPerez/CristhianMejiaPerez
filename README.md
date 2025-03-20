@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Cristhian Mejia! 👋  
 
-<!--
-**CristhianMejiaPerez/CristhianMejiaPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer Specialist & MSc Student at Politecnico di Milano  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+- 🔭 I’m currently working on **improving backend architectures and REST API design**  
+- 🌱 I’m currently learning **advanced cloud computing & microservices**  
+- 👯 I’m looking to collaborate on **backend projects, open-source contributions, and API development**  
+- 🤖 In the future, I would love to **explore artificial intelligence applications**  
+- 💬 Ask me about **backend development, REST APIs, databases, and cloud computing**  
+- ⚡ **Fun fact:** I enjoy debugging more than coding sometimes!  
+- 🚀 **Code, learn, repeat.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+- **Languages:** Python, Java, JavaScript, HTML, SQL  
+- **Databases:** MySQL, PostgreSQL  
+- **Backend Technologies:** REST APIs, Spring Boot  
+- **Cloud & CRM:** Google Cloud Platform (GCP), Salesforce Administration  
+- **Tools & DevOps:** Git, Docker, Postman  
+- **Agile Practices:** Scrum Methodologies  
+
+---
+
+### 📫 Connect with Me  
+- **LinkedIn:** [Your LinkedIn URL]  
+- **Email:** [Your Email]
+  
