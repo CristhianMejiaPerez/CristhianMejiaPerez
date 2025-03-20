@@ -24,6 +24,6 @@
 ---
 
 ### 📫 Connect with Me  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** [Your Email]
+- **LinkedIn:** [https://www.linkedin.com/in/cristhian-mejia-891130164/]
+- **Email:** [cristhian97_mejia@hotmail.com]
   
