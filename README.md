@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack  
 - **Languages:** Python, Java, JavaScript, HTML, SQL  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL, PostgreSQL, Firebase  
 - **Backend Technologies:** REST APIs, Spring Boot  
 - **Cloud & CRM:** Google Cloud Platform (GCP), Salesforce Administration  
 - **Tools & DevOps:** Git, Docker, Postman  
